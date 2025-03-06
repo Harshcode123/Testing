@@ -1,0 +1,6 @@
+streamlit
+fuzzywuzzy
+distance
+bs4
+Pandas
+numpy
