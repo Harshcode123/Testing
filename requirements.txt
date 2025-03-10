@@ -5,3 +5,4 @@ bs4
 Pandas
 numpy
 scikit-learn
+nltk
